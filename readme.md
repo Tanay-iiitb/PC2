@@ -1,17 +1,14 @@
 # PROJECT COMPONENT 2 MEDICAL IMAGE ANALYSIS
 
-## Overview
-This project focuses on analyzing **medical image enhancement techniques** using a set of handcrafted statistical and texture features.  
-We applied multiple filters and evaluated their performance using various distance and similarity metrics to determine the most effective enhancement methods.
-
 ---
 ## How to run
 Clone the repository: git clone https://github.com/Tanay-iiitb/PC2
 Open the notebook in Jupyter/Colab/Vs-code then run all cells sequentially to get results.
-
+## Overview
+This project focuses on analyzing **medical image enhancement techniques** using a set of handcrafted statistical and texture features.  
+We applied multiple filters and evaluated their performance using various distance and similarity metrics to determine the most effective enhancement methods.
 ---
-## What We Did
-We used several image enhancement techniques such as:
+## We used several image enhancement techniques such as:
 - Low-pass filtering (noise reduction)
 - High-pass filtering (edge sharpening)
 - Gaussian smoothing
@@ -20,7 +17,7 @@ We used several image enhancement techniques such as:
 - Sobel and Prewitt edge enhancement
 - Frequency Domain Sharpening
 - Laplacian Filtering
-We simulated and removed these noises:
+## We simulated and removed these noises:
 - Gaussian Noise 
 - Salt and pepper noise
 - Mixture of S&P + gaussian noise
