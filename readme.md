@@ -1,4 +1,4 @@
-# PC2 – Medical Image Enhancement and Feature Evaluation
+# PROJECT COMPONENT 2 MEDICAL IMAGE ANALYSIS
 
 ## Overview
 This project focuses on analyzing **medical image enhancement techniques** using a set of handcrafted statistical and texture features.  
