@@ -8,6 +8,9 @@ Open the notebook in Jupyter/Colab/Vs-code then run all cells sequentially to ge
 This project focuses on analyzing **medical image enhancement techniques** using a set of handcrafted statistical and texture features.  
 We applied multiple filters and evaluated their performance using various distance and similarity metrics to determine the most effective enhancement methods.
 ---
+## Dataset Link
+https://www.kaggle.com/datasets/nih-chest-xrays/data/
+
 ## We used several image enhancement techniques such as:
 - Low-pass filtering (noise reduction)
 - High-pass filtering (edge sharpening)
